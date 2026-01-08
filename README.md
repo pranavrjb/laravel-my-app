@@ -46,8 +46,8 @@ This is a **Laravel application** set up with **Docker**, **Nginx**, and **MySQL
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/pranavrjb/laravel-docker-app.git
-cd my-app
+git clone https://github.com/pranavrjb/laravel-my-app.git
+cd laravel-my-app
 ```
 2. **Copy environment file**
 
